@@ -14,7 +14,7 @@ Data cleaning was performed through these steps:
 
 1. Changing data type
 2. Perfomed conditional columns
-3.Some columns were renamed
+3. Some columns were renamed
 
 ## Data Analysis
 1. What is the count of customers?
